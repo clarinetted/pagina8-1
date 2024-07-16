@@ -21,8 +21,8 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #0d1acf;
-    color: #080808;
+    background-color: hsl(256, 75%, 40%);
+    color: hsl(184, 92%, 39%);
     text-decoration: none;
     padding: 10px 12px;
     display: block;

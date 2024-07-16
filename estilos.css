@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(248, 251, 255);
 }
 .principal{
    display: flex;
@@ -13,6 +13,6 @@
 }
 body{
     background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
+  
 
 }
