@@ -18,5 +18,229 @@ body{
 }
 .Titulo{
 font-size: 50px;
+color: rgb(78, 8, 12);
 text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ .img1{
+    height: 654px;
+    width: 1000px;
+    background-image: url(TAREA\ 2\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    float: left;
+     
+}   
+.img2{
+    height: 445px;
+    width: 700px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 4.09.57\ PM.jpeg);
+    background-repeat: no-repeat;
+
+}  
+.img3{
+
+    height: 600px;
+    width: 600x;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 4.21.50\ PM.jpeg);
+    background-repeat: no-repeat;
+
+} 
+.img4{
+
+    height: 590px;
+    width: 590x;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 4.33.54\ PM.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img5{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 4.48.56\ PM.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img6{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 4.55.41\ PM.jpeg);
+    background-repeat: no-repeat;
+
+}
+
+.img7{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(dieta\ equilibriada.jpg);
+    background-repeat: no-repeat;
+
+}
+.img8{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(dormir\ bn.png);
+    background-repeat: no-repeat;
+
+}
+.img9{ 
+
+    height: 330px;
+    width: 300x;
+    background-image:url(meditacion.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img10{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(cuidado\ de\ la\ piel.jpg);
+    background-repeat: no-repeat;
+
+}
+.img11{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(hienepersonal.webp);
+    background-repeat: no-repeat;
+
+}
+.img12{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(hidratacion.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img13{ 
+
+    height: 590px;
+    width: 590x;
+    background-image:url(comer\ frutas\ y\ verduras.jpg);
+    background-repeat: no-repeat;
+
+}
+.img14{ 
+
+    height: 382px;
+    width: 1000x;
+    background-image:url(relaciones\ saludables.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img15{ 
+
+    height: 450px;
+    width: 1000x;
+    background-image:url(reducir\ las\ gaseosas.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img16{ 
+
+    height: 382px;
+    width: 382x;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 5.34.32\ PM.jpeg);
+    background-repeat: no-repeat;
+
+}
+.img17{ 
+
+    height: 500px;
+    width: 500px;
+    background-image:url(estar\ mucho\ tiempo\ sentado.jpg);
+    background-repeat: no-repeat;
+
+}
+.img18{ 
+
+    height: 500px;
+    width: 500px;
+    background-image:url(comee\ azucar.jpeg);
+    background-repeat: no-repeat;
+}
+.img19{ 
+
+    height: 500px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 6.21.13\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+
+.img20{ 
+
+    height: 700px;
+    width: 800px;
+    background-image:url(dormir\ bn.png);
+    background-repeat:no-repeat ;
+}
+.img21{ 
+
+    height: 700px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 6.30.06\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img22{ 
+
+    height: 700px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 6.44.24\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img23{ 
+
+    height: 700px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 7.00.05\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img24{ 
+
+    height: 700px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 7.35.20\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img25{ 
+
+    height: 700px;
+    width: 500px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 7.45.35\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img26{ 
+
+    height: 700px;
+    width: 700px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 7.52.29\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img27{ 
+
+    height: 700px;
+    width: 700px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 8.00.05\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img28{ 
+
+    height: 700px;
+    width: 700px;
+    background-image:url(WhatsApp\ Image\ 2024-08-04\ at\ 8.17.57\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+.img30{ 
+
+    height: 1000px;
+    width: 1000px;
+    background-image:url(MAPA\ MENTAL.pdf);
+    background-repeat: no-repeat;
 }

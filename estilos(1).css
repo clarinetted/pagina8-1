@@ -1,0 +1,32 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(250, 248, 255);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+  
+
+}
+.Titulo{
+font-size: 50px;
+color: rgb(80, 12, 12);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ .img1{
+    height: 654px;
+    width: 1000px;
+    background-image: url(TAREA\ 2\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}  
